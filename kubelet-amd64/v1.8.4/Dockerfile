@@ -1,0 +1,1 @@
+from gcr.io/google-containers/kubelet-amd64:v1.8.4
